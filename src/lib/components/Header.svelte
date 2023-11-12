@@ -1,6 +1,6 @@
 <div>
 	<img src="bull.svg" alt="" />
-	<h1>My App</h1>
+	<h1>Playground</h1>
 	<h2>CDL</h2>
 </div>
 

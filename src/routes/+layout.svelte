@@ -2,14 +2,16 @@
 	import '../lib/styles/global.css';
 	import Header from '../lib/components/Header.svelte';
 	import Footer from '../lib/components/Footer.svelte';
+	import Form from '../lib/components/Form.svelte';
+	import ProjTwo from '../lib/components/ProjTwo.svelte';
 </script>
 
 <div class="layout">
 	<Header />
 	<main>
 		<div class="grid-wrapper">
-			<span>1</span>
-			<span>1</span>
+			<Form />
+			<ProjTwo />
 			<span>1</span>
 			<span>1</span>
 		</div>
@@ -37,9 +39,5 @@
 	.grid-wrapper > span {
 		height: 100%;
 		background-color: grey;
-	}
-
-	h1 {
-		text-align: center;
 	}
 </style>

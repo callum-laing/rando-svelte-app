@@ -1,5 +1,5 @@
 <div>
-	<h2>Copyright by Callum Laing</h2>
+	<h2>© Copyright by Callum Laing</h2>
 </div>
 
 <style>
@@ -8,5 +8,6 @@
 		text-align: center;
 		padding: 20px;
 		margin: 0 auto;
+		font-size: 1.1em;
 	}
 </style>
